@@ -48,6 +48,3 @@ The system uses a SQL Server database with the following tables:
 - **Orders**: `(order_id, customer_id, total, order_date)`  
 - **Order_Items**: `(order_item_id, order_id, product_id, quantity, price)`  
 
-
-```bash
-python console_app.py
