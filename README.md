@@ -11,6 +11,8 @@ The system provides two modes of interaction:
 2. **Web Application**: Flask-powered REST API with a simple Bootstrap frontend to interact with products, customers, and orders.
 
 ---
+![Project Overview](images/project_overview.png)
+---
 
 ## ✨ Features
 
